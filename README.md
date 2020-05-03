@@ -13,6 +13,7 @@ Wrong implementation
 
 Optimization result  
 ![Res](https://yukimuon.com/public/cachelab/image_2020-05-01_22-23-23.png)
+![Res1](https://yukimuon.com/public/cachelab/image_2020-05-03_11-18-44.png)
 
 ### Disclaimer
 This repo is for reference purpose ONLY and absolutely no warranty on accuracy  
